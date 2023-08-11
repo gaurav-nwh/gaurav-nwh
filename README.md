@@ -2,7 +2,7 @@
 <h3 align="center">Passionate software and web developer creating elegant solutions through code. Lifelong learner and collaborator.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Real Capital Investment<br><br>🌱 I’m currently learning Web Development<br><br>👨‍💻 All of my projects are available at https://github.com/gaurav-nwh<br><br>📫 How to reach me gauravsain.nwh@gmail.com
+🔭 I’m currently working on Real Capital Investment<br><br>🌱 I’m currently learning Software & Web Development<br><br>👨‍💻 All of my projects are available at https://github.com/gaurav-nwh<br><br>📫 How to reach me gauravsain.nwh@gmail.com
 
 
 ## 🌐 Socials:
