@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sain</h1>
-<h3 align="center">Passionate software and web developer creating elegant solutions through code. Lifelong learner and collaborator.</h3>
+<h3 align="center">I am a dedicated software and web developer with 1.5 years of experience as a Full Stack Developer. I hold a B.Tech in Computer Science and have expertise in technologies like C/C++, DSA, DBMS, OOP, HTML, CSS, JavaScript, React, and MySQL. With a strong foundation in computer science, I am passionate about building efficient and user-friendly solutions.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Real Capital Investment<br><br>🌱 I’m currently learning Software & Web Development<br><br>👨‍💻 All of my projects are available at https://github.com/gaurav-nwh<br><br>📫 How to reach me gauravsain.nwh@gmail.com
